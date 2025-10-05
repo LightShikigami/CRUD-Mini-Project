@@ -1,6 +1,6 @@
 public class Program
 {
-  public static Main(string[] args)
+  public static void Main(string[] args)
   {
     int a = 5
     int b = 10
