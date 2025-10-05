@@ -17,6 +17,7 @@
 
         public DateTime? lead_time { get; set; }
         public DateTime CreatedOn { get; set; }
+        public DateTime? LastUpdateDate { get; set; }
         public bool IsActive { get; set; }
     }
 
