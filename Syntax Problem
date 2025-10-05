@@ -1,0 +1,15 @@
+public class Program
+{
+  public statik Main(string[] args)
+  {
+    int a = 5
+    int b = 10
+    int multiply = Multipy(a, b)
+    Console.Writeline("The multiply is: " + multipy)
+  }
+
+    public static int Multiply(int num1, int num2)
+    {
+      returns num1 * num2
+    }
+}
